@@ -1,7 +1,7 @@
-Planchette
-==========
+Planchette SVG
+==============
 
-Planchette is a boilerplate for front-end prototypes.
+Planchette is a boilerplate for front-end prototypes. This repo contains work towards a convention for including SVG images.
 
 ![Planchette](https://raw.githubusercontent.com/penrosestudio/planchette/master/src/images/planchette.jpg)
 
